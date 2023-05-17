@@ -1,0 +1,30 @@
+/* Estilos globais */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #555;
+}
+
+p {
+  color: #777;
+  line-height: 1.5;
+}
+
+footer {
+  margin-top: 40px;
+  color: #999;
+}
+
+/* Estilos específicos para a página de política de privacidade */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
